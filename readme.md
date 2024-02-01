@@ -186,6 +186,9 @@
 - @PropertySource
 - @Value
 - @ConfigureProperties
+
+---
+
 - @ConditionalOnProperty
 - @BeanScope
 - @Entity
@@ -196,6 +199,9 @@
 - @OneToMany
 - @ManyToMany
 - @EntityListeners
+
+---
+
 - @Query
 - @Param
 - @Transactional
