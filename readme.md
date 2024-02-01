@@ -175,6 +175,8 @@
 
     ```
 
+---
+
 - @GetMapping
 - @PostMapping
 - @PutMapping
@@ -186,8 +188,11 @@
 - @PropertySource
 - @Value
 - @ConfigureProperties
+
+---
+
 - @ConditionalOnProperty
-- @BeanScope
+- @Bean and @Scope
 - @Entity
 - @Id
 - @GeneratedValue
@@ -195,7 +200,11 @@
 - @OneToOne
 - @OneToMany
 - @ManyToMany
+
 - @EntityListeners
+
+---
+
 - @Query
 - @Param
 - @Transactional
