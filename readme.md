@@ -194,17 +194,24 @@
 - @ConditionalOnProperty
 - @Bean and @Scope
 - @Entity
+- @Table
 - @Id
 - @GeneratedValue
+- @Column
 - @Transient
+- @EntityListeners
+- @PrePersist 
+- @PostPersist 
+- @PreUpdate 
+- @PostUpdate 
+- @PreRemove 
+- @PostRemove
+
+
+---
 - @OneToOne
 - @OneToMany
 - @ManyToMany
-
-- @EntityListeners
-
----
-
 - @Query
 - @Param
 - @Transactional
