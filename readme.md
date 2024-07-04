@@ -1,5 +1,7 @@
 ### Spring Boot Important Annotations
-
+``
+Pull request Checking via Faizan Siddiqui
+``
 - @SpringBootApplication
 
   This annotation combines @Configuration, @EnableAutoConfiguration, and @ComponentScan to enable the Spring Boot application.
